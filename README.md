@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Veriff.com
-- 🌱 I’m currently learning Blender
+- 🌱 I’m currently learning Blender and threeJS
 - 🙅🏻‍♂️ I’m looking to collaborate on side proejcts
-- 💬 Ask me about design and UX developer
-- 📫 How to reach me: sajadxabedi@gmail.com
+- 💬 Ask me about desig
+- 📫 How to reach me: https://twitter.com/sajadabedi

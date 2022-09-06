@@ -8,5 +8,5 @@
 
 #### 🤝 Let's connect:
 [✦ Twitter](https://twitter.com/sajadabedi)
-[✦ Dribbble](https://dribbble.com/sajad)
+[✦ Portfolio](sajjad.one)
 [✦ Figma](https://figma.com/@sajad)

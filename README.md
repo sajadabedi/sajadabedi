@@ -1,6 +1,6 @@
 ### I'm Sajjad
 
-- 🔭 Currently working at Veriff.com as a product designer.
+- 🔭 Currently working at Veriff.com as a Senior Product Designer.
 - 🌱 On the side i'm tinkering with buiding website and apps.
 - 🙅🏻‍♂️ I’m currently learning SwiftUI
 - 💬 Let's chat about design and open source project

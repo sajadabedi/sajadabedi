@@ -1,9 +1,7 @@
 ### I'm Sajjad
 
-- 🔭 Currently working at Veriff.com.
-- 🌱 On the side I'm tinkering with building websites and apps and making 🍕.
-- 🙅🏻‍♂️ I’m currently learning Ruby on Rails.
-- 💬 Let's chat about design and open-source.
+🍕 I'm tinkering with building websites and apps and making.
+💬 Let's chat about design and open-source.
 
 
 #### 🤝 Let's connect:

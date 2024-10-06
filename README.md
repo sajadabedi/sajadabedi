@@ -6,5 +6,5 @@
 
 #### 🤝 Let's connect:
 [✦ Twitter](https://twitter.com/sajadabedi)
-[✦ Portfolio](sajjad.one)
+[✦ Portfolio](https://sajjad.one)
 [✦ Figma](https://figma.com/@sajad)

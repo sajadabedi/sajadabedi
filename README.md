@@ -4,3 +4,5 @@ Well, I'm all about helping people to achieve their goals, writing, and making a
 
 
 I share my design work on my [Portfolio](https//sajjad.one) or [Figma Community](https://figma.com/@sajad). You can also follow my [𝕏 (Twitter)](https://x.com/sajadabedi) for my hot takes!
+
+<img src="bar.gif"/>
